@@ -122,3 +122,13 @@ exit
    - Basic file operations
 
 This README provides a complete onboarding experience for macOS users while maintaining relevance for all learners. The markdown formatting ensures proper rendering on GitHub.
+
+## Screenshots
+
+<img width="983" alt="Snipaste_2025-06-30_08-44-25" src="https://github.com/user-attachments/assets/b576327f-13a2-4e83-9c5d-0a177570b03f" />
+
+
+<img width="850" alt="Snipaste_2025-06-30_08-50-49" src="https://github.com/user-attachments/assets/eeeeee6f-fcf1-4660-a806-010dbf11cb2b" />
+
+
+<img width="1384" alt="Snipaste_2025-06-30_08-53-11" src="https://github.com/user-attachments/assets/b844e8e9-8b63-47f4-860a-9dcebae105e7" />
