@@ -125,6 +125,21 @@ rmdir empty_folder/
 **Note**: All commands assume you have appropriate permissions. Use `sudo` cautiously!  
 ![Terminal Safety Meme](https://i.redd.it/1z4865u5y0q41.jpg)
 
+
+## Screenshots
+<img width="304" alt="Snipaste_2025-06-30_10-29-24" src="https://github.com/user-attachments/assets/e01b55b6-7120-4476-ae33-2c1196a6cbb4" />
+
+
+<img width="437" alt="Snipaste_2025-06-30_10-31-17" src="https://github.com/user-attachments/assets/2f1ebb19-f3f3-4da7-9bd0-68631030c0e1" />
+
+
+<img width="1043" alt="Snipaste_2025-06-30_10-35-14" src="https://github.com/user-attachments/assets/7f7e7eca-18b6-40f8-8464-cb5348f26b22" />
+
+
+<img width="508" alt="Snipaste_2025-06-30_10-37-11" src="https://github.com/user-attachments/assets/386580f5-4d1b-43ea-a0f1-e590a2a0bced" />
+
+
+
 ### Key Features:
 1. **Task-Oriented Structure**  
    - Clear step-by-step challenges with copy-paste ready code
