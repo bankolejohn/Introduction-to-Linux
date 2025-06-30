@@ -124,7 +124,6 @@ rmdir empty_folder/
 
 **Note**: All commands assume you have appropriate permissions. Use `sudo` cautiously!  
 ![Terminal Safety Meme](https://i.redd.it/1z4865u5y0q41.jpg)
-```
 
 ### Key Features:
 1. **Task-Oriented Structure**  
