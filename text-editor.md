@@ -132,6 +132,15 @@ nano nano_file.txt  # Creates/opens file
 
 ## Screenshots
 
+<img width="189" alt="Snipaste_2025-06-30_11-15-39" src="https://github.com/user-attachments/assets/4e65bf26-c051-4d93-8ff5-8db25167de40" />
+
+
+<img width="549" alt="Snipaste_2025-06-30_11-16-26" src="https://github.com/user-attachments/assets/3f5523e1-6b27-49f7-b0e7-a8d11cb6bf94" />
+
+
+<img width="960" alt="Snipaste_2025-06-30_11-17-46" src="https://github.com/user-attachments/assets/7b5d2464-cda3-4c1c-ab77-856dc3eff4d0" />
+
+<img width="597" alt="Snipaste_2025-06-30_11-18-47" src="https://github.com/user-attachments/assets/2ee7de7d-bd54-440f-ab0e-a552cda177a2" />
 
 
 ## **📚 Resources**
