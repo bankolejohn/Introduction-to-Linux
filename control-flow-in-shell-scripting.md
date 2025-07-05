@@ -185,6 +185,19 @@ grep -c -E 'for|while|until' *.sh
 
 ---
 
+## Screenshots
+
+<img width="533" alt="Snipaste_2025-07-05_04-17-54" src="https://github.com/user-attachments/assets/5e047c9d-1b48-4a1a-a6d2-d08fada720f8" />
+
+<img width="477" alt="Snipaste_2025-07-05_11-27-33" src="https://github.com/user-attachments/assets/470fa8f0-baec-4fd0-8b16-763ad4709d5f" />
+
+
+<img width="387" alt="Snipaste_2025-07-05_11-26-23" src="https://github.com/user-attachments/assets/75ec0b07-ef7f-4d79-a31a-e55794334c16" />
+
+
+<img width="490" alt="Snipaste_2025-07-05_11-25-06" src="https://github.com/user-attachments/assets/326ca91e-b9dc-4733-921a-9448552ac20f" />
+
+
 **Pro Tip**: Use `set -x` at script start to debug loops:
 ```bash
 #!/bin/bash
