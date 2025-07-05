@@ -203,6 +203,27 @@ read -p "Generate another table? [y/n]: " again
 
 ---
 
+## Screenshots
+
+<img width="449" alt="Snipaste_2025-07-05_12-26-16" src="https://github.com/user-attachments/assets/ef1eb292-dbff-4eb3-a3dd-bada63c52aeb" />
+
+
+<img width="443" alt="Snipaste_2025-07-05_12-25-01" src="https://github.com/user-attachments/assets/54a9aaf7-c0e4-4e25-9456-05f751a54d8b" />
+
+
+<img width="536" alt="Snipaste_2025-07-05_12-22-56" src="https://github.com/user-attachments/assets/b5e08db2-f31a-4ce4-accd-d3b0a30b6506" />
+
+
+<img width="595" alt="Snipaste_2025-07-05_12-22-31" src="https://github.com/user-attachments/assets/09cfc64f-7036-4349-9e89-9ad36be46e82" />
+
+
+<img width="567" alt="Snipaste_2025-07-05_12-21-55" src="https://github.com/user-attachments/assets/8671c02e-4b7b-4687-bf28-31179748f871" />
+
+
+<img width="567" alt="Snipaste_2025-07-05_12-21-55" src="https://github.com/user-attachments/assets/01e3fc94-f843-4f85-96d0-69d90f8e4046" />
+
+
+
 ## **📚 Learning Resources**
 - [Bash For Loops](https://linuxize.com/post/bash-for-loop/)
 - [Arithmetic Expansion](https://www.gnu.org/software/bash/manual/html_node/Arithmetic-Expansion.html)
