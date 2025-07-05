@@ -182,6 +182,17 @@ sudo userdel user1 user2 user3
 
 ---
 
+## Screenshots
+
+<img width="572" alt="Snipaste_2025-07-05_02-58-12" src="https://github.com/user-attachments/assets/82957e13-b3c6-4d13-a2fe-561ba162160a" />
+
+
+<img width="549" alt="Snipaste_2025-07-05_03-08-12" src="https://github.com/user-attachments/assets/7c41d614-e711-4d74-8162-1d39d3be0037" />
+
+
+<img width="494" alt="Snipaste_2025-07-05_03-10-27" src="https://github.com/user-attachments/assets/6d0a8239-1e33-452b-b74c-3d56e80b890a" />
+
+
 ## **📚 Resources**
 - [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
 - [File Permissions Guide](https://linuxhandbook.com/linux-file-permissions/)
