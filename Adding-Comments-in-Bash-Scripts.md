@@ -176,3 +176,9 @@ grep -c '^#' your_script.sh
 ## Screenshots
 
 <img width="252" alt="Snipaste_2025-07-05_03-20-07" src="https://github.com/user-attachments/assets/3655d5c2-f09a-40b7-8d81-b93d4e2c311f" />
+
+
+<img width="851" alt="Snipaste_2025-07-05_03-25-06" src="https://github.com/user-attachments/assets/c31d03e8-e97b-48f0-883d-1b31f6b4765d" />
+
+
+<img width="376" alt="Snipaste_2025-07-05_03-25-51" src="https://github.com/user-attachments/assets/f7040b16-ff5f-4751-80ae-af7ff270ccbf" />
